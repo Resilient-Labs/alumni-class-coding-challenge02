@@ -17,7 +17,7 @@ Therefore, solve(array1, array2) = [2, 1, 0]
 [Codewars Link](https://www.codewars.com/kata/59ca8e8e1a68b7de740001f4)
 
 
-### How to submit your code for review:
+### How to submit your code for review :
 
 - Fork and clone this repo
 - Create a new branch called solutions
